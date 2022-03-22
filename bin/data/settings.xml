@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<group>
+	<camera_angle>16</camera_angle>
+	<near_threshold>255</near_threshold>
+	<far_threshold>58</far_threshold>
+	<min_blob_area>10</min_blob_area>
+	<max_blob_area>9216</max_blob_area>
+	<blobs_to_look_for>2</blobs_to_look_for>
+</group>
