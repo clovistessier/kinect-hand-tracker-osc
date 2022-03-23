@@ -1,5 +1,6 @@
 # kinect-hand-tracker-osc
 This openFrameworks application uses the Kinect V1 (model 1414) to track a user's hands and transmits the their positions over OSC for use as a gesture controller in multimedia, audiovisual, and creative coding applications.
+![In action!](kinect.png)
 
 ## Description
 This project extends the openFrameworks kinectExample project to implement the basic hand tracking functionality demonstrated in this video from Dan Shiffman, which provides a great explainer as to what's going on here. Many thanks to him for providing so many great creative coding tutorials.
